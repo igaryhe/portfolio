@@ -1,0 +1,41 @@
+baseURL = "localhost"
+languageCode = "en-us"
+title = "igaryhe"
+theme = "hugo-creative-portfolio-theme"
+
+[params]
+style = "default"
+descripttion = "Portfolio"
+copyright = "&copy;2019 igaryhe all rights reserved"
+sidebarAbout = ["I make video games and write code."]
+email = "igaryhe@gmail.com"
+
+[[params.navlinks]]
+name = "Games"
+url = "games"
+home = true
+
+[[params.navlinks]]
+name = "Code"
+url = "code"
+
+[[params.navlinks]]
+name = "Articles"
+url = "articles"
+
+[[params.navlinks]]
+name = "DGN"
+url = "https://t.me/s/DansGN"
+
+[[params.navlinks]]
+name = "Blog"
+url = "https://blog.igaryhe.io"
+
+[[params.navlinks]]
+name = "About"
+url = "about"
+
+[params.social]
+email = "igaryhe@gmail.com"
+twitter = "https://twitter.com/igaryhe1"
+github = "https://github.com/igaryhe"
