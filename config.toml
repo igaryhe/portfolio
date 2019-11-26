@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "https://www.igaryhe.io"
 languageCode = "en-us"
 title = "igaryhe"
 theme = "hugo-creative-portfolio-theme"
